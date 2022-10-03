@@ -1,5 +1,5 @@
 import React from 'react';
-import {books, articles, resources} from './db'
+import {books, articles, resources} from '../db'
 import NavBar from './NavBar';
 
 
