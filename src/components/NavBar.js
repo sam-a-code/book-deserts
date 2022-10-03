@@ -1,14 +1,15 @@
 import React from "react";
-import { NavLink } from "react-router-dom";
+import { NavLink, Route } from "react-router-dom";
 
 function NavBar() {
-  return <div>
-        <NavLink
+  return (<div>
+    NAVLINK
+        {/* <NavLink
           to="/"
           exact
           >
           Home
-          </NavLink>
+          </NavLink> */}
           {/* <NavLink 
             to="/articles"
             exact
@@ -27,7 +28,7 @@ function NavBar() {
             >
               Books
             </NavLink> */}
-  </div>;
+  </div>);
 }
 
 export default NavBar;
