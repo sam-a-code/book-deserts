@@ -1,6 +1,8 @@
+// will go in App, will contain ArticleCard
+
 import React from "react";
 import ArticleCard from "./ArticleCard";
-import { articles } from "./db"
+import { articles } from "../db"
 
 function ArticleList () {
 

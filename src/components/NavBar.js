@@ -1,3 +1,5 @@
+// should be top of every page, add to App 
+
 import React from "react";
 import { NavLink, Route } from "react-router-dom";
 
