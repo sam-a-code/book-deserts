@@ -14,12 +14,13 @@ function App() {
     <div>
       <header>
         <NavBar/>
-        <h1 className='page-title'>Book Deserts <br /> and who's helping to end them</h1>
+        <h1 className='page-title'>Book Deserts <br /> and how people are watering them</h1>
+        <br></br>
         <Switch>
           <Route exact path="/articles">
             <ArticleList />
           </Route>
-          <Route exact path="/resources">
+          <Route exact path="/organizations">
             <ResourceList />
           </Route>
           <Route exact path="/books">
