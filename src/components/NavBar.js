@@ -4,8 +4,11 @@ import React from "react";
 import { NavLink, Route } from "react-router-dom";
 
 function NavBar() {
-  return (<div>
-    NAVLINK
+  return (<div className="navbar">
+    HOME
+    ARTICLES
+    RESOURCES 
+    BOOKS 
         {/* <NavLink
           to="/"
           exact

@@ -1,0 +1,137 @@
+body {
+  margin: 3%;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #adccff;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.card {
+  background-color: #71a3f5;
+  margin: 1%;
+  border-radius: 3px;
+  width: 33%;
+  box-sizing: border-box;
+  border: solid #5B6DCD 10px;
+  padding: 5px;
+  flex: 250px;
+}
+
+.card img {
+  width: 100%;
+  border-radius: 3px;
+}
+
+.cards {
+  list-style: none;
+  display: flex;
+  flex: 1 100px;
+  flex-flow: row wrap;
+}
+
+.navbar {
+  text-align: center;
+}
+
+.home-details {
+  background-color: #71a3f5;
+  margin: 1%;
+  border-radius: 3px;
+  box-sizing: border-box;
+  border: solid #5B6DCD 5px;
+  padding: 5px;
+}
+
+.home-header {
+  text-align: center;
+  border-radius: 3px;
+  background-image: url("https://images.unsplash.com/photo-1588580000645-4562a6d2c839?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTd8fGxpYnJhcnl8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60")
+}
+
+.form {
+  background-color: #71a3f5;
+  margin: 1%;
+  border-radius: 3px;
+  box-sizing: border-box;
+  border: solid #5B6DCD 5px;
+  padding: 5px;
+}
+
+.footer {
+  text-align: center;
+  font-weight: bold;
+}
+
+.box {
+  background-color: white;
+  opacity: .9;
+  margin-left: 15%;
+  margin-right: 15%;
+  margin-top: 5%;
+  padding: 1%;
+  border-radius: 3px;
+}
+
+.box-header {
+  background-color: white;
+  opacity: .9;
+  margin-left: 25%;
+  margin-right: 25%;
+  padding: 1%;
+  border-radius: 3px;
+}
+
+
+  .page-title {
+    margin-top: 10;
+    margin-bottom: 0;
+    text-align: center;
+  }
+
+
+  @keyframes book-bounce {
+    0% { transform: translateY(0); }
+    40% { transform: translateY(-10px); }
+    80% { transform: translateY(0); }
+    100% { transform: translateY(0); }
+  }
+  
+  @keyframes shelf-lift {
+    0% { transform: translateY(0) rotate(0); }
+    20% { transform: translateY(-4px) rotate(10deg); }
+    40% { transform: translateY(-4px) rotate(0); }
+    40% { transform: translateY(-4px) rotate(-10deg); }
+    80% { transform: translateY(0); }
+    100% { transform: translateY(0); }
+  }
+  
+  .book-shelf:hover {
+    cursor: pointer;
+    
+    .book-shelf__book {
+      animation: book-bounce 0.4s ease;
+      animation-iteration-count: 1;
+    }
+    
+    .book-shelf__book--two {
+      animation-delay: 0.04s;
+    }
+  
+    .book-shelf__book--three {
+      animation-delay: 0.08s;
+    }
+    
+    .book-shelf__shelf {
+      animation: shelf-lift 0.4s ease;
+      animation-iteration-count: 1;
+      transform-origin: 50% 50%;
+    }
+  }
+  
