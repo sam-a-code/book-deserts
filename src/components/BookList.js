@@ -3,16 +3,27 @@
 
 // will go in App, will contain ArticleCard
 
-import React from "react";
+import React, {useState, useEffect} from "react";
 import BookCard from "./BookCard";
-import { books } from "../db"
+import BookForm from "./BookForm"
 
 function BookList () {
+  const [books, setBooks] = useState([])
+
+  useEffect(() => {
+    fetch('http://localhost:3000/books')
+    .then((r) => r.json())
+    .then((books) => setBooks(books))
+    }, [])
+
+    function addBook(newBook) {
+      setBooks(books => [...books, newBook])
+    }
 
   const bookList = books.map((book) => {
     return (
       <BookCard
-      key={book.title}
+      key={book.id}
       title={book.title}
       author={book.author}
       image={book.image}
@@ -20,10 +31,15 @@ function BookList () {
         />
     ) })
   
-  return <div>
-    <h1>Books</h1>
-    {bookList}
-    </div>;
+  return (
+    <div>
+      <h2>Books</h2>
+    <ul className="cards">
+      {bookList}
+    </ul>
+    <BookForm bookList={bookList} addBook={addBook}/>
+    </div>
+  )
 }
 
 export default BookList;
