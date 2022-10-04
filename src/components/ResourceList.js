@@ -21,12 +21,13 @@ function ResourceList() {
       name={resource.name}
       url={resource.url}
       summary={resource.summary}
+      image={resource.image}
         />
     ) })
   
   return (
     <div>
-      <h2>Resources</h2>
+      <h2>People and organizations who are making a difference:</h2>
     <ul className="cards">
     {resourceList}
     </ul>

@@ -1,155 +1,180 @@
 {
-    "articles": [
-      {
-        "id": 1,
-        "title": "Book Deserts and Literacy: How Lack of Access Hurts Students",
-        "source": "Teen Vogue",
-        "url": "https://www.teenvogue.com/story/book-deserts-literacy-west-virginia ",
-        "author": "Rania Zuri",
-        "published": "August 2, 2022"
-      },
-      {
-        "id": 2,
-        "title": "What Are Book Deserts?",
-        "source": "Teach Better",
-        "url": "https://www.teachbetter.com/blog/what-are-book-deserts/",
-        "author": "Cait O'Connor",
-        "published": "August 18, 2021"
-      },
-      {
-        "id": 3,
-        "title": "test",
-        "source": "test",
-        "url": "test",
-        "author": "test",
-        "published": "test"
-      }
-    ],
-    "resources": [
-      {
-        "id": 1,
-        "name": "Storybook Maze",
-        "url": "https://www.nationalbook.org/programs/book-rich-environments/",
-        "summary": "The inspiration behind this entire site is this organization – Storybook Maze. Founded by a *Radical Street Librarian* who is dedicated to alleviating Baltimore's book deserts. She distributes books directly to communities in book deserts. Venmo her @StorybookMaze to support."
-      },
-      {
-        "id": 2,
-        "name": "Book Rich Environments",
-        "url": "https://www.nationalbook.org/programs/book-rich-environments/",
-        "summary": "Book Rich Environments is a tri-sector collaboration between nonprofit organizations, national government agencies, and corporate publishers that aims to infuse public housing communities across the country with a vibrant and accessible culture of books. The initiative connects families living in public housing communities with reading-related resources, working to improve opportunities and outcomes for public housing residents."
-      },
-      {
-        "id": 3,
-        "name": "Three Ways to Bring Books to Children Living in Book Deserts",
-        "url": "https://www.unitedway.org/blog/three-ways-to-bring-books-to-children-living-in-book-deserts# ",
-        "summary": "Three Ways to Bring Books to Children Living in Book Deserts (Little Free Libraries, Mobile Libraries, Literacy Kits)."
-      }
-    ],
-    "books": [
-      {
-        "id": 1,
-        "title": "If You Give a Mouse a Cookie",
-        "author": "Laura Joffe Numeroff (Author), Felicia Bond (Illustrator)",
-        "image": "https://images-us.bookshop.org/ingram/9780060245863.jpg?height=500&v=v2",
-        "url": "https://bookshop.org/books/if-you-give-a-mouse-a-cookie/9780060245863"
-      },
-      {
-        "id": 2,
-        "title": "The Girl and the Dinosaur",
-        "author": "Hollie Hughes",
-        "image": "https://images-us.bookshop.org/ingram/9781547603220.jpg?height=500&v=v2",
-        "url": "https://bookshop.org/books/the-girl-and-the-dinosaur/9781547603220?gclid=Cj0KCQjwkOqZBhDNARIsAACsbfKN1V4BYDmyCT_AQJsxA13JEfAQv8KaUgcUgC4kZKy6bLqiYftVHm0aAsu6EALw_wcB"
-      },
-      {
-        "id": 3,
-        "title": "The Queen of Kindergarten",
-        "author": "Derrick Barnes (Author), Vanessa Brantley-Newton (Illustrator)",
-        "image": "https://images-us.bookshop.org/ingram/9780593111420.jpg?height=500&v=v2",
-        "url": "https://bookshop.org/books/the-queen-of-kindergarten/9780593111420?gclid=Cj0KCQjwkOqZBhDNARIsAACsbfLV5bmXM67-pl7pyqyiYsVLEmup1MyY1Z16l_rEUCITBmF2K7sL8MYaAsSTEALw_wcB"
-      },
-      {
-        "id": 4,
-        "title": "Miss Rumphius",
-        "author": "Barbara Cooney",
-        "image": "https://images-us.bookshop.org/ingram/9780140505399.jpg?height=500&v=v2",
-        "url": "https://bookshop.org/books/miss-rumphius-story-and-pictures/9780140505399"
-      },
-      {
-        "id": 5,
-        "title": "The Haunted Mask",
-        "author": "R. L. Stine",
-        "image": "https://images-us.bookshop.org/ingram/9780545035217.jpg?height=500&v=v2-09cb3d8ad55f568cb1ebb1b73f1d25a2",
-        "url": "https://bookshop.org/books/the-haunted-mask-classic-goosebumps-4-volume-4/9780545035217"
-      },
-      {
-        "id": 6,
-        "title": "Hidden: A Child's Story of the Holocaust",
-        "author": "Loic Dauvillier (Author), Marc Lizano (Illustrator)",
-        "image": "https://images-us.bookshop.org/ingram/9781596438736.jpg?height=500&v=v2",
-        "url": "https://bookshop.org/books/hidden-a-child-s-story-of-the-holocaust-9781596438736/9781596438736"
-      },
-      {
-        "id": 7,
-        "title": "Nona the Ninth",
-        "author": "Tamsyn Muir",
-        "image": "https://images-us.bookshop.org/ingram/9781250854117.jpg?height=500&v=v2-94cf28e97c5bb2bf10aaa48ca4d6731c",
-        "url": "https://bookshop.org/books/nona-the-ninth/9781250854117"
-      },
-      {
-        "id": 8,
-        "title": "Smart Brevity: The Power of Saying More with Lee",
-        "author": "Mike Allen, Jim Vandehei, Roy Schwartz",
-        "image": "https://images-us.bookshop.org/ingram/9781523516971.jpg?height=500&v=v2-d6e85190a2964eb848999a2a691a2a67",
-        "url": "https://bookshop.org/p/books/smart-brevity-the-power-of-saying-more-with-less-roy-schwartz/17897762?ean=9781523516971"
-      },
-      {
-        "id": 9,
-        "title": "The Bluest Eye",
-        "author": "Toni Morrison",
-        "image": "https://images-us.bookshop.org/ingram/9780307278449.jpg?height=500&v=v2",
-        "url": "https://bookshop.org/books/the-bluest-eye/9780307278449"
-      },
-      {
-        "id": 10,
-        "title": "Fairy Tale",
-        "author": "Stephen King",
-        "image": "https://images-us.bookshop.org/ingram/9781668002179.jpg?height=500&v=v2-4fc57ef90d89b8fbcdd565883da4ef63",
-        "url": "https://bookshop.org/books/fairy-tale-9798885781589/9781668002179"
-      },
-      {
-        "id": 11,
-        "title": "American Born Chinese",
-        "author": "Gene Luen Yang",
-        "image": "https://images-us.bookshop.org/ingram/9781250811899.jpg?height=500&v=v2",
-        "url": "https://bookshop.org/books/american-born-chinese-7229d7d8-c9c2-4315-b201-83b3573fbdba/9781250811899"
-      },
-      {
-        "id": 12,
-        "title": "You Owe You: Ignite Your Power, Your Purpose, and Your Why",
-        "author": "Eric Thomas",
-        "image": "https://images-us.bookshop.org/ingram/9780593234983.jpg?height=500&v=v2-8069cb9ea849d15955453fb3e6dabdd7",
-        "url": "https://bookshop.org/books/you-owe-you-ignite-your-power-your-purpose-and-your-why/9780593234983"
-      },
-      {
-        "id": 13,
-        "title": "This Changes Everything: Capitalism vs. the Climate",
-        "author": "Naomi Klein",
-        "image": "https://images-us.bookshop.org/ingram/9781451697391.jpg?height=500&v=v2",
-        "url": "https://bookshop.org/books/this-changes-everything-capitalism-vs-the-climate/9781451697391"
-      },
-      {
-        "id": 14,
-        "title": "Pachinko",
-        "author": "Min Jin Lee",
-        "image": "https://images-us.bookshop.org/ingram/9781455563920.jpg?height=500&v=v2",
-        "url": "https://bookshop.org/p/books/pachinko-national-book-award-finalist-lee-min-jin/8324329?ean=9781455563920"
-      },
-      {
-        "id": 15,
-        "title": "To Kill A Mockingbird",
-        "author": "Harper Lee",
-        "image": "https://images-us.bookshop.org/ingram/9780060935467.jpg?height=500&v=v2",
-        "url": "https://bookshop.org/books/to-kill-a-mockingbird/9780060935467"
-      }
-    ]
-  }
+  "articles": [
+    {
+      "id": 1,
+      "title": "📖 Book Deserts and Literacy: How Lack of Access Hurts Students",
+      "source": "Teen Vogue",
+      "url": "https://www.teenvogue.com/story/book-deserts-literacy-west-virginia ",
+      "author": "Rania Zuri",
+      "published": "August 2, 2022"
+    },
+    {
+      "id": 2,
+      "title": "📘 What Are Book Deserts?",
+      "source": "Teach Better",
+      "url": "https://www.teachbetter.com/blog/what-are-book-deserts/",
+      "author": "Cait O'Connor",
+      "published": "August 18, 2021"
+    },
+    {
+      "id": 3,
+      "title": "📕Want Kids to Learn the Joy of Reading? Barbershops and Laundromats Can Help",
+      "source": "NY Times",
+      "url": "https://www.nytimes.com/2019/07/02/books/kids-books-barbershops-laundromats.html",
+      "author": "Christine Hauser",
+      "published": "July 2, 2019"
+    },
+    {
+      "id": 4,
+      "title": "📕A Novel Idea: Fostering Literacy by Eliminating Book Deserts",
+      "source": "U.S. News & World Report",
+      "url": "https://www.usnews.com/news/articles/2015/07/20/fostering-literacy-by-eliminating-book-deserts",
+      "author": "Emily Hoerner",
+      "published": "July 20, 2015"
+    }
+  ],
+  "resources": [
+    {
+      "id": 1,
+      "name": "Storybook Maze",
+      "url": "https://www.instagram.com/storybookmaze/?hl=en",
+      "summary": "The inspiration behind this entire site is this organization – Storybook Maze. Founded by a Radical Street Librarian who is dedicated to alleviating Baltimore's book deserts. She distributes books directly to communities in book deserts. Venmo her @StorybookMaze to support.",
+      "image": "https://mcusercontent.com/e14432f7550c4563bfc329d32/images/5a76db15-8c6b-9f3a-686d-28ab2aae974e.png"
+    },
+    {
+      "id": 2,
+      "name": "Barbershop Books",
+      "url": "https://barbershopbooks.org/programs/barbershop-books/?gclid=CjwKCAjws--ZBhAXEiwAv-RNL34FWzqOuLZMna6C6p178d6L_TCUrr-kezF3w2lLjTYGgOzxQYQhbhoCZdMQAvD_BwE",
+      "summary": "We imagine a future where all children identify as readers and enjoy learning. Our mission is to inspire Black boys and other vulnerable children to read for fun through child-centered, culturally responsive, and community-based programming and content. Follow the link below to donate or look for a barbershop in your community!",
+      "image": "https://barbershopbooks.org/app/uploads/2021/07/Logo-Dark.png"
+    },
+    {
+      "id": 3,
+      "name": "Book Rich Environments",
+      "url": "https://www.nationalbook.org/programs/book-rich-environments/",
+      "summary": "Book Rich Environments is a tri-sector collaboration between nonprofit organizations, national government agencies, and corporate publishers that aims to infuse public housing communities across the country with a vibrant and accessible culture of books. The initiative connects families living in public housing communities with reading-related resources, working to improve opportunities and outcomes for public housing residents.",
+      "image": "https://i0.wp.com/www.nationalbook.org/wp-content/uploads/2019/03/NBF_Foundation-Logo_2-line-1-e1553183926715.png?resize=300%2C108&ssl=1"
+    },
+    {
+      "id": 4,
+      "name": "Three Ways to Bring Books to Children Living in Book Deserts",
+      "url": "https://www.unitedway.org/blog/three-ways-to-bring-books-to-children-living-in-book-deserts# ",
+      "summary": "Three Ways to Bring Books to Children Living in Book Deserts (Little Free Libraries, Mobile Libraries, Literacy Kits).",
+      "image": "https://www.unitedway.org/assets/img/new-logo.svg"
+    }
+  ],
+  "books": [
+    {
+      "id": 1,
+      "title": "If You Give a Mouse a Cookie",
+      "author": "Laura Joffe Numeroff (Author), Felicia Bond (Illustrator)",
+      "image": "https://images-us.bookshop.org/ingram/9780060245863.jpg?height=500&v=v2",
+      "url": "https://bookshop.org/books/if-you-give-a-mouse-a-cookie/9780060245863"
+    },
+    {
+      "id": 2,
+      "title": "The Girl and the Dinosaur",
+      "author": "Hollie Hughes",
+      "image": "https://images-us.bookshop.org/ingram/9781547603220.jpg?height=500&v=v2",
+      "url": "https://bookshop.org/books/the-girl-and-the-dinosaur/9781547603220?gclid=Cj0KCQjwkOqZBhDNARIsAACsbfKN1V4BYDmyCT_AQJsxA13JEfAQv8KaUgcUgC4kZKy6bLqiYftVHm0aAsu6EALw_wcB"
+    },
+    {
+      "id": 3,
+      "title": "The Queen of Kindergarten",
+      "author": "Derrick Barnes (Author), Vanessa Brantley-Newton (Illustrator)",
+      "image": "https://images-us.bookshop.org/ingram/9780593111420.jpg?height=500&v=v2",
+      "url": "https://bookshop.org/books/the-queen-of-kindergarten/9780593111420?gclid=Cj0KCQjwkOqZBhDNARIsAACsbfLV5bmXM67-pl7pyqyiYsVLEmup1MyY1Z16l_rEUCITBmF2K7sL8MYaAsSTEALw_wcB"
+    },
+    {
+      "id": 4,
+      "title": "Miss Rumphius",
+      "author": "Barbara Cooney",
+      "image": "https://images-us.bookshop.org/ingram/9780140505399.jpg?height=500&v=v2",
+      "url": "https://bookshop.org/books/miss-rumphius-story-and-pictures/9780140505399"
+    },
+    {
+      "id": 5,
+      "title": "The Haunted Mask",
+      "author": "R. L. Stine",
+      "image": "https://images-us.bookshop.org/ingram/9780545035217.jpg?height=500&v=v2-09cb3d8ad55f568cb1ebb1b73f1d25a2",
+      "url": "https://bookshop.org/books/the-haunted-mask-classic-goosebumps-4-volume-4/9780545035217"
+    },
+    {
+      "id": 6,
+      "title": "Hidden: A Child's Story of the Holocaust",
+      "author": "Loic Dauvillier (Author), Marc Lizano (Illustrator)",
+      "image": "https://images-us.bookshop.org/ingram/9781596438736.jpg?height=500&v=v2",
+      "url": "https://bookshop.org/books/hidden-a-child-s-story-of-the-holocaust-9781596438736/9781596438736"
+    },
+    {
+      "id": 7,
+      "title": "Nona the Ninth",
+      "author": "Tamsyn Muir",
+      "image": "https://images-us.bookshop.org/ingram/9781250854117.jpg?height=500&v=v2-94cf28e97c5bb2bf10aaa48ca4d6731c",
+      "url": "https://bookshop.org/books/nona-the-ninth/9781250854117"
+    },
+    {
+      "id": 8,
+      "title": "Smart Brevity: The Power of Saying More with Lee",
+      "author": "Mike Allen, Jim Vandehei, Roy Schwartz",
+      "image": "https://images-us.bookshop.org/ingram/9781523516971.jpg?height=500&v=v2-d6e85190a2964eb848999a2a691a2a67",
+      "url": "https://bookshop.org/p/books/smart-brevity-the-power-of-saying-more-with-less-roy-schwartz/17897762?ean=9781523516971"
+    },
+    {
+      "id": 9,
+      "title": "The Bluest Eye",
+      "author": "Toni Morrison",
+      "image": "https://images-us.bookshop.org/ingram/9780307278449.jpg?height=500&v=v2",
+      "url": "https://bookshop.org/books/the-bluest-eye/9780307278449"
+    },
+    {
+      "id": 10,
+      "title": "Fairy Tale",
+      "author": "Stephen King",
+      "image": "https://images-us.bookshop.org/ingram/9781668002179.jpg?height=500&v=v2-4fc57ef90d89b8fbcdd565883da4ef63",
+      "url": "https://bookshop.org/books/fairy-tale-9798885781589/9781668002179"
+    },
+    {
+      "id": 11,
+      "title": "American Born Chinese",
+      "author": "Gene Luen Yang",
+      "image": "https://images-us.bookshop.org/ingram/9781250811899.jpg?height=500&v=v2",
+      "url": "https://bookshop.org/books/american-born-chinese-7229d7d8-c9c2-4315-b201-83b3573fbdba/9781250811899"
+    },
+    {
+      "id": 12,
+      "title": "You Owe You: Ignite Your Power, Your Purpose, and Your Why",
+      "author": "Eric Thomas",
+      "image": "https://images-us.bookshop.org/ingram/9780593234983.jpg?height=500&v=v2-8069cb9ea849d15955453fb3e6dabdd7",
+      "url": "https://bookshop.org/books/you-owe-you-ignite-your-power-your-purpose-and-your-why/9780593234983"
+    },
+    {
+      "id": 13,
+      "title": "This Changes Everything: Capitalism vs. the Climate",
+      "author": "Naomi Klein",
+      "image": "https://images-us.bookshop.org/ingram/9781451697391.jpg?height=500&v=v2",
+      "url": "https://bookshop.org/books/this-changes-everything-capitalism-vs-the-climate/9781451697391"
+    },
+    {
+      "id": 14,
+      "title": "Pachinko",
+      "author": "Min Jin Lee",
+      "image": "https://images-us.bookshop.org/ingram/9781455563920.jpg?height=500&v=v2",
+      "url": "https://bookshop.org/p/books/pachinko-national-book-award-finalist-lee-min-jin/8324329?ean=9781455563920"
+    },
+    {
+      "id": 15,
+      "title": "To Kill A Mockingbird",
+      "author": "Harper Lee",
+      "image": "https://images-us.bookshop.org/ingram/9780060935467.jpg?height=500&v=v2",
+      "url": "https://bookshop.org/books/to-kill-a-mockingbird/9780060935467"
+    },
+    {
+      "title": "test",
+      "image": "test",
+      "author": "test",
+      "link": "test",
+      "id": 16
+    }
+  ]
+}
