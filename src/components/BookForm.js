@@ -31,7 +31,7 @@ function BookForm({addBook, bookList}) {
 
 return (
     <div onSubmit={handleSubmit} className="form-box">
-      <h2 className="form">📚 Add a new book to our list!</h2>
+      <h2 className="form">📖 Add a new book to our list!</h2>
       <form className="form">
         <input className="form-input" type="text" name="title" placeholder="Book title" value={title} onChange={(e) => setTitle(e.target.value)}/>
         <br></br>
@@ -41,7 +41,7 @@ return (
         <br></br>
         <input className="form-input" type="text" name="image" placeholder="Book cover image URL" value={image} onChange={(e) => setImage(e.target.value)}/>
         <br></br>
-        <button className="form-submit" type="submit">Add Book</button>
+        <button className="form-submit" type="submit">Add Book 📘 </button>
       </form>
     </div>
   );

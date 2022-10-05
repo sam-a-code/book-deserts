@@ -28,7 +28,8 @@ function BookList () {
   
   return (
     <div>
-      <h2>Books</h2>
+      <h2 className="section-heading">Books (treat yourself or buy one to donate!)</h2>
+      <p>📚 Scroll to the bottom to add your own book suggestions to our list</p>
     <ul className="cards">
       {bookList}
     </ul>
