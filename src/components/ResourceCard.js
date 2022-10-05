@@ -1,5 +1,3 @@
-// will live in ResourceList
-
 import React from 'react';
 
 function ResourceCard({summary, name, url, image}) {

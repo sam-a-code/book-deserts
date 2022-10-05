@@ -1,4 +1,3 @@
-// add to App 
 import React from 'react';
 
 function Footer() {

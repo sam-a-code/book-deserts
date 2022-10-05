@@ -1,5 +1,3 @@
-//set up routing, add other components 
-
 import React from 'react';
 import NavBar from './NavBar';
 import Home from './Home';

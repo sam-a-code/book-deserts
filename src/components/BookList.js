@@ -1,8 +1,3 @@
-//FOLLOW FORMAT OF ARTICLELIST
-// Will contain BookCard AND BookForm
-
-// will go in App, will contain ArticleCard
-
 import React, {useState, useEffect} from "react";
 import BookCard from "./BookCard";
 import BookForm from "./BookForm"
