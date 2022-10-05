@@ -12,7 +12,8 @@ function App() {
     <div>
       <header>
         <NavBar/>
-        <h1 className='page-title'>Book Deserts <br /> and how people are watering them</h1>
+        <h1 className='page-title'>Book Deserts</h1>
+        <h2 className='page-subtitle'>🌧️ and how they're being watered 🌧️</h2>
         <br></br>
         <Switch>
           <Route exact path="/articles">

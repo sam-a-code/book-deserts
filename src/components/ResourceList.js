@@ -24,7 +24,7 @@ function ResourceList() {
   
   return (
     <div>
-      <h2>People and organizations who are making a difference:</h2>
+      <h2 className="section-heading">People and organizations who are making a difference:</h2>
     <ul className="cards">
     {resourceList}
     </ul>

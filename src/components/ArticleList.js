@@ -24,7 +24,7 @@ function ArticleList () {
   
   return (
     <div>
-      <h2>Articles</h2>
+      <h2 className="section-heading">Articles</h2>
     <ul className="cards">
       {articleList}
     </ul>

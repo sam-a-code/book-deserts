@@ -2,7 +2,7 @@
   "articles": [
     {
       "id": 1,
-      "title": "📖 Book Deserts and Literacy: How Lack of Access Hurts Students",
+      "title": "📘 Book Deserts and Literacy: How Lack of Access Hurts Students",
       "source": "Teen Vogue",
       "url": "https://www.teenvogue.com/story/book-deserts-literacy-west-virginia ",
       "author": "Rania Zuri",
@@ -10,7 +10,7 @@
     },
     {
       "id": 2,
-      "title": "📘 What Are Book Deserts?",
+      "title": "📖 What Are Book Deserts?",
       "source": "Teach Better",
       "url": "https://www.teachbetter.com/blog/what-are-book-deserts/",
       "author": "Cait O'Connor",
