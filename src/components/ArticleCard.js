@@ -1,5 +1,3 @@
-// will go in ArticleList 
-
 import React from 'react';
 
 function ArticleCard({title, source, published, author, url}) {
