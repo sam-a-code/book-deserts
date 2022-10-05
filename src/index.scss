@@ -45,7 +45,6 @@ code {
 .navbar {
   text-align: center;
   height: 50px;
-  
 }
 
 .home-details {
@@ -61,6 +60,25 @@ code {
   text-align: center;
   border-radius: 3px;
   background-image: url("https://images.unsplash.com/photo-1588580000645-4562a6d2c839?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTd8fGxpYnJhcnl8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60")
+}
+
+.home-box {
+  background-color: white;
+  opacity: .9;
+  margin-left: 15%;
+  margin-right: 15%;
+  margin-top: 5%;
+  padding: 1%;
+  border-radius: 3px;
+}
+
+.home-box-header {
+  background-color: white;
+  opacity: .9;
+  margin-left: 35%;
+  margin-right: 35%;
+  padding: 1%;
+  border-radius: 3px;
 }
 
 .form-box {
@@ -107,25 +125,6 @@ code {
 .footer {
   text-align: center;
   font-weight: bold;
-}
-
-.box {
-  background-color: white;
-  opacity: .9;
-  margin-left: 15%;
-  margin-right: 15%;
-  margin-top: 5%;
-  padding: 1%;
-  border-radius: 3px;
-}
-
-.box-header {
-  background-color: white;
-  opacity: .9;
-  margin-left: 25%;
-  margin-right: 25%;
-  padding: 1%;
-  border-radius: 3px;
 }
 
 
