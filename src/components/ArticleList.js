@@ -1,5 +1,3 @@
-// will go in App, will contain ArticleCard
-
 import React, {useState, useEffect} from "react";
 import ArticleCard from "./ArticleCard";
 

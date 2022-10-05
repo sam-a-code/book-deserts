@@ -1,11 +1,10 @@
-// will go in BookList
 import React, { useEffect, useState} from "react";
 
 function BookForm({addBook, bookList}) {
   const [title, setTitle] = useState("")
   const [image, setImage] = useState("")
   const [author, setAuthor] = useState("")
-  const [link, setLink] = useState("")
+  const [url, setURL] = useState("")
 
   function handleSubmit(e) {
     e.preventDefault();
@@ -18,27 +17,31 @@ function BookForm({addBook, bookList}) {
         title: title,
         image: image,
         author: author,
-        link: link
+        url: url
       })  
     })
     let newBook = {
       title: title,
       image: image,
       author: author,
-      link: link
+      url: url
     }
     addBook(newBook)
   }
 
 return (
-    <div onSubmit={handleSubmit}>
-      <h2>New Book</h2>
+    <div onSubmit={handleSubmit} className="form-box">
+      <h2 className="form">📚 Add a new book to our list!</h2>
       <form className="form">
-        <input type="text" name="title" placeholder="Book title" value={title} onChange={(e) => setTitle(e.target.value)}/>
-        <input type="text" name="image" placeholder="Image URL" value={image} onChange={(e) => setImage(e.target.value)}/>
-        <input type="text" name="author" placeholder="Author name" value={author} onChange={(e) => setAuthor(e.target.value)}/>
-        <input type="text" name="link" placeholder="Book link" value={link} onChange={(e) => setLink(e.target.value)}/>
-        <button type="submit">Add Book</button>
+        <input className="form-input" type="text" name="title" placeholder="Book title" value={title} onChange={(e) => setTitle(e.target.value)}/>
+        <br></br>
+        <input className="form-input" type="text" name="author" placeholder="Author name" value={author} onChange={(e) => setAuthor(e.target.value)}/>
+        <br></br>
+        <input className="form-input" type="text" name="link" placeholder="Book link" value={url} onChange={(e) => setURL(e.target.value)}/>
+        <br></br>
+        <input className="form-input" type="text" name="image" placeholder="Book cover image URL" value={image} onChange={(e) => setImage(e.target.value)}/>
+        <br></br>
+        <button className="form-submit" type="submit">Add Book</button>
       </form>
     </div>
   );

@@ -1,6 +1,3 @@
-// will contain ResourceCard
-// add to App 
-
 import React, {useState, useEffect} from "react";
 import ResourceCard from "./ResourceCard";
 
