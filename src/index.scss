@@ -42,11 +42,28 @@ code {
   border-radius: 3px;
 }
 
-.navbar {
-  text-align: center;
-  height: 50px;
+.cards {
+  list-style: none;
+  display: flex;
+  flex: 1 100px;
+  flex-flow: row wrap;
 }
 
+  .navbar {
+   text-align: center;
+   background-color: #71a3f5;
+   margin-left: 25%;
+   margin-right: 25%;
+   border-radius: 10px;
+   width: 50%;
+   box-sizing: border-box;
+   border: solid #5B6DCD 10px;
+   padding: 10px;
+   flex: 250px;
+   display: flex;
+   justify-content: space-between;
+
+}
 .home-details {
   background-color: #71a3f5;
   margin: 1%;
