@@ -18,14 +18,22 @@
     },
     {
       "id": 3,
-      "title": "📚 Want Kids to Learn the Joy of Reading? Barbershops and Laundromats Can Help",
+      "title": "📚 Eliminating Book Deserts, One Book at a Time",
+      "source": "TEDx Talks",
+      "url": "https://www.youtube.com/watch?v=YIKhwnGerTQ",
+      "author": "Rania Zuri",
+      "published": "May 19, 2022"
+    },
+    {
+      "id": 4,
+      "title": "📖 Want Kids to Learn the Joy of Reading? Barbershops and Laundromats Can Help",
       "source": "NY Times",
       "url": "https://www.nytimes.com/2019/07/02/books/kids-books-barbershops-laundromats.html",
       "author": "Christine Hauser",
       "published": "July 2, 2019"
     },
     {
-      "id": 4,
+      "id": 5,
       "title": "📕 A Novel Idea: Fostering Literacy by Eliminating Book Deserts",
       "source": "U.S. News & World Report",
       "url": "https://www.usnews.com/news/articles/2015/07/20/fostering-literacy-by-eliminating-book-deserts",
