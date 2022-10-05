@@ -49,6 +49,13 @@
       "image": "https://barbershopbooks.org/app/uploads/2021/07/Logo-Dark.png"
     },
     {
+      "id": 2,
+      "name": "Little Free Library",
+      "url": "https://littlefreelibrary.org/",
+      "summary": "Little Free Library is a nonprofit organization based in St. Paul, Minnesota. Our mission is to be a catalyst for building community, inspiring readers, and expanding book access for all through a global network of volunteer-led Little Free Libraries. Our vision is a Little Free Library in every community and a book for every reader. We believe all people are empowered when the opportunity to discover a personally relevant book to read is not limited by time, space, or privilege.",
+      "image": "https://littlefreelibrary.org/wp-content/uploads/2022/07/LFL_RGB_HorizonalTaglineLogo_Black@1x-300x98-1.png"
+    },
+    {
       "id": 3,
       "name": "Book Rich Environments",
       "url": "https://www.nationalbook.org/programs/book-rich-environments/",
@@ -94,87 +101,115 @@
     },
     {
       "id": 5,
+      "title": "Call Me Tree/Llámame Árbol",
+      "author": "Maya Christina Gonzalez",
+      "image": "https://images-us.bookshop.org/ingram/9780892392940.jpg?height=500&v=v2-21ec69868643914f59de8f01947bbbfb",
+      "url": "https://bookshop.org/books/call-me-tree-llamame-arbol/9780892392940"
+    },
+    {
+      "id": 6,
+      "title": "A Song Only I Can Hear",
+      "author": "Barry Jonsberg",
+      "image": "https://images-us.bookshop.org/ingram/9781534442528.jpg?height=500&v=v2",
+      "url": "https://bookshop.org/books/a-song-only-i-can-hear/9781534442528"
+    },
+    {
+      "id": 7,
+      "title": "Black Boy Joy: 17 Stories Celebrating Black Boyhood",
+      "author": "Kwame Mbalia",
+      "image": "https://images-us.bookshop.org/ingram/9780593379936.jpg?height=500&v=v2-e57d8082c92ed0ffdc85b981db0e8589",
+      "url": "https://bookshop.org/books/black-boy-joy-17-stories-celebrating-black-boyhood/9780593379936"
+    },
+    {
+      "id": 8,
+      "title": "Even the Smallest Will Grow",
+      "author": "Lita Judge",
+      "image": "https://images-us.bookshop.org/ingram/9781534457256.jpg?height=500&v=v2",
+      "url": "https://bookshop.org/books/even-the-smallest-will-grow/9781534457256"
+    },
+    {
+      "id": 9,
       "title": "The Haunted Mask",
       "author": "R. L. Stine",
       "image": "https://images-us.bookshop.org/ingram/9780545035217.jpg?height=500&v=v2-09cb3d8ad55f568cb1ebb1b73f1d25a2",
       "url": "https://bookshop.org/books/the-haunted-mask-classic-goosebumps-4-volume-4/9780545035217"
     },
     {
-      "id": 6,
+      "id": 10,
       "title": "Hidden: A Child's Story of the Holocaust",
       "author": "Loic Dauvillier (Author), Marc Lizano (Illustrator)",
       "image": "https://images-us.bookshop.org/ingram/9781596438736.jpg?height=500&v=v2",
       "url": "https://bookshop.org/books/hidden-a-child-s-story-of-the-holocaust-9781596438736/9781596438736"
     },
     {
-      "id": 7,
-      "title": "Nona the Ninth",
-      "author": "Tamsyn Muir",
-      "image": "https://images-us.bookshop.org/ingram/9781250854117.jpg?height=500&v=v2-94cf28e97c5bb2bf10aaa48ca4d6731c",
-      "url": "https://bookshop.org/books/nona-the-ninth/9781250854117"
-    },
-    {
-      "id": 8,
-      "title": "Smart Brevity: The Power of Saying More with Lee",
-      "author": "Mike Allen, Jim Vandehei, Roy Schwartz",
-      "image": "https://images-us.bookshop.org/ingram/9781523516971.jpg?height=500&v=v2-d6e85190a2964eb848999a2a691a2a67",
-      "url": "https://bookshop.org/p/books/smart-brevity-the-power-of-saying-more-with-less-roy-schwartz/17897762?ean=9781523516971"
-    },
-    {
-      "id": 9,
+      "id": 11,
       "title": "The Bluest Eye",
       "author": "Toni Morrison",
       "image": "https://images-us.bookshop.org/ingram/9780307278449.jpg?height=500&v=v2",
       "url": "https://bookshop.org/books/the-bluest-eye/9780307278449"
     },
     {
-      "id": 10,
-      "title": "Fairy Tale",
-      "author": "Stephen King",
-      "image": "https://images-us.bookshop.org/ingram/9781668002179.jpg?height=500&v=v2-4fc57ef90d89b8fbcdd565883da4ef63",
-      "url": "https://bookshop.org/books/fairy-tale-9798885781589/9781668002179"
-    },
-    {
-      "id": 11,
+      "id": 12,
       "title": "American Born Chinese",
       "author": "Gene Luen Yang",
       "image": "https://images-us.bookshop.org/ingram/9781250811899.jpg?height=500&v=v2",
       "url": "https://bookshop.org/books/american-born-chinese-7229d7d8-c9c2-4315-b201-83b3573fbdba/9781250811899"
     },
     {
-      "id": 12,
-      "title": "You Owe You: Ignite Your Power, Your Purpose, and Your Why",
-      "author": "Eric Thomas",
-      "image": "https://images-us.bookshop.org/ingram/9780593234983.jpg?height=500&v=v2-8069cb9ea849d15955453fb3e6dabdd7",
-      "url": "https://bookshop.org/books/you-owe-you-ignite-your-power-your-purpose-and-your-why/9780593234983"
-    },
-    {
       "id": 13,
-      "title": "This Changes Everything: Capitalism vs. the Climate",
-      "author": "Naomi Klein",
-      "image": "https://images-us.bookshop.org/ingram/9781451697391.jpg?height=500&v=v2",
-      "url": "https://bookshop.org/books/this-changes-everything-capitalism-vs-the-climate/9781451697391"
-    },
-    {
-      "id": 14,
-      "title": "Pachinko",
-      "author": "Min Jin Lee",
-      "image": "https://images-us.bookshop.org/ingram/9781455563920.jpg?height=500&v=v2",
-      "url": "https://bookshop.org/p/books/pachinko-national-book-award-finalist-lee-min-jin/8324329?ean=9781455563920"
-    },
-    {
-      "id": 15,
       "title": "To Kill A Mockingbird",
       "author": "Harper Lee",
       "image": "https://images-us.bookshop.org/ingram/9780060935467.jpg?height=500&v=v2",
       "url": "https://bookshop.org/books/to-kill-a-mockingbird/9780060935467"
     },
     {
-      "title": "test",
-      "image": "test",
-      "author": "test",
-      "link": "test",
-      "id": 16
+      "id": 14,
+      "title": "From the Desk of Zoe Washington",
+      "author": "Janae Marks",
+      "image": "https://images-us.bookshop.org/ingram/9780062875860.jpg?height=500&v=v2",
+      "url": "https://bookshop.org/books/from-the-desk-of-zoe-washington/9780062875860"
+    },
+    {
+      "id": 15,
+      "title": "Guess How Much I Love You",
+      "author": "Sam McBratney (Author)  Anita Jeram (Illustrator)",
+      "image": "https://images-us.bookshop.org/ingram/9781536210637.jpg?height=500&v=v2",
+      "url": "https://bookshop.org/books/guess-how-much-i-love-you-9789577626929/9781536210637"
+    },
+    {
+      "id": 16,
+      "title": "Love, Z",
+      "author": "Jessie Sima",
+      "image": "https://images-us.bookshop.org/ingram/9781481496773.jpg?height=500&v=v2",
+      "url": "https://bookshop.org/books/love-z/9781481496773"
+    },
+    {
+      "id": 17,
+      "title": "Vámonos: San Juan",
+      "author": "Ariana Stein (Author)  Patty Rodriguez (Author)  Ana Godinez (Illustrator)",
+      "image": "https://images-us.bookshop.org/ingram/9781947971509.jpg?height=500&v=v2",
+      "url": "https://bookshop.org/books/vamonos-san-juan/9781947971509"
+    },
+    {
+      "id": 18,
+      "title": "Smoke and Mirrors",
+      "author": "K. D. Halbrook",
+      "image": "https://images-us.bookshop.org/ingram/9781534405059.jpg?height=500&v=v2",
+      "url": "https://bookshop.org/books/smoke-and-mirrors-9781534405059/9781534405059"
+    },
+    {
+      "id": 19,
+      "title": "A Wrinkle in Time",
+      "author": "Madeleine L'Engle",
+      "image": "https://images-us.bookshop.org/ingram/9781250004673.jpg?height=500&v=v2",
+      "url": "https://bookshop.org/books/a-wrinkle-in-time-9781250004673/9781250004673"
+    },
+    {
+      "id": 20,
+      "title": "Alice's Adventures in Wonderland",
+      "author": "Lewis Carroll",
+      "image": "https://images-us.bookshop.org/ingram/9780141321073.jpg?height=500&v=v2",
+      "url": "https://bookshop.org/books/alice-s-adventures-in-wonderland-118f116e-06ff-414b-861a-11a3c1a1e850/9780141321073"
     }
   ]
 }
