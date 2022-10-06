@@ -14,7 +14,7 @@ function BookList () {
     function addBook(newBook) {
       setBooks(books => [...books, newBook])
     }
-    function handleRemoveListing(id) {
+    function handleRemoveBook(id) {
       const removeBook = books.filter((book) => book.id !== id);
       setBooks(removeBook);
     }
@@ -29,7 +29,7 @@ function BookList () {
       image={book.image}
       url={book.url}
       books={books}
-      handleRemoveListing={handleRemoveListing}
+      handleRemoveBook={handleRemoveBook}
         />
     ) })
   

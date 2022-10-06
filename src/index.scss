@@ -144,6 +144,20 @@ code {
   margin-top: 1%
 }
 
+.delete-btn {
+  position: relative;
+  padding: 3px;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+  'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+  sans-serif;
+  border-radius: 3px;
+  border-color: #5B6DCD;
+}
+
+.delete-btn:hover {
+  background-color: #adccff;
+}
+
 .form-box {
   background-color: #71a3f5;
   margin-left: 25%;
