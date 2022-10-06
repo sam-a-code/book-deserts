@@ -8,6 +8,7 @@ import Footer from './Footer'
 import {Switch, Route} from 'react-router-dom'
 
 function App() {
+  
   return (
     <div>
       <header>
@@ -23,7 +24,7 @@ function App() {
             <ResourceList />
           </Route>
           <Route exact path="/books">
-            <BookList />
+            <BookList/>
           </Route>
           <Route exact path="/">
             <Home />
