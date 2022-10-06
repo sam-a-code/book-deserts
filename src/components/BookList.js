@@ -14,15 +14,22 @@ function BookList () {
     function addBook(newBook) {
       setBooks(books => [...books, newBook])
     }
-
+    function handleRemoveListing(id) {
+      const removeBook = books.filter((book) => book.id !== id);
+      setBooks(removeBook);
+    }
+    
   const bookList = books.map((book) => {
     return (
       <BookCard
       key={book.id}
+      id={book.id}
       title={book.title}
       author={book.author}
       image={book.image}
       url={book.url}
+      books={books}
+      handleRemoveListing={handleRemoveListing}
         />
     ) })
   
