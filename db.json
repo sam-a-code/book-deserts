@@ -57,24 +57,31 @@
       "image": "https://barbershopbooks.org/app/uploads/2021/07/Logo-Dark.png"
     },
     {
-      "id": 2,
+      "id": 3,
       "name": "Little Free Library",
       "url": "https://littlefreelibrary.org/",
       "summary": "Little Free Library is a nonprofit organization based in St. Paul, Minnesota. Our mission is to be a catalyst for building community, inspiring readers, and expanding book access for all through a global network of volunteer-led Little Free Libraries. Our vision is a Little Free Library in every community and a book for every reader. We believe all people are empowered when the opportunity to discover a personally relevant book to read is not limited by time, space, or privilege.",
       "image": "https://littlefreelibrary.org/wp-content/uploads/2022/07/LFL_RGB_HorizonalTaglineLogo_Black@1x-300x98-1.png"
     },
     {
-      "id": 3,
+      "id": 4,
       "name": "Book Rich Environments",
       "url": "https://www.nationalbook.org/programs/book-rich-environments/",
       "summary": "Book Rich Environments is a tri-sector collaboration between nonprofit organizations, national government agencies, and corporate publishers that aims to infuse public housing communities across the country with a vibrant and accessible culture of books. The initiative connects families living in public housing communities with reading-related resources, working to improve opportunities and outcomes for public housing residents.",
       "image": "https://i0.wp.com/www.nationalbook.org/wp-content/uploads/2019/03/NBF_Foundation-Logo_2-line-1-e1553183926715.png?resize=300%2C108&ssl=1"
     },
     {
-      "id": 4,
+      "id": 5,
+      "name": "Soar with Reading",
+      "url": "https://soarwithreading.com/book-vending-machines/",
+      "summary": "This summer, for the first time ever, JetBlue is placing five thoughtfully designed digital book vending machines that provide brand-new, free books for kids aged 0 – 14 in Newark, NJ. Kids are allowed to order as many books as they are interested in – no strings attached — in hopes that providing free access to books in a fun and convenient way will encourage reading.",
+      "image": "https://soarwithreading.com/wp-content/uploads/2018/04/SwR-logo.png"
+    },
+    {
+      "id": 6,
       "name": "Three Ways to Bring Books to Children Living in Book Deserts",
       "url": "https://www.unitedway.org/blog/three-ways-to-bring-books-to-children-living-in-book-deserts# ",
-      "summary": "Three Ways to Bring Books to Children Living in Book Deserts (Little Free Libraries, Mobile Libraries, Literacy Kits).",
+      "summary": "A critical aspect of a child’s success depends on learning how to read. A child living in a book desert, with limited access to books, may not have the opportunity to develop the skills to become an engaged reader. Unfortunately, book deserts are often a reality for families living in low-income communities. In fact, some of the lowest-income neighborhoods in the country report having one available book for every 300 children. Below are three ways you can increase access to books for communities who need them most. All of these volunteer initiatives not only bring books to communities in need, but can strengthen community relationships, and build new partnerships.",
       "image": "https://www.unitedway.org/assets/img/new-logo.svg"
     }
   ],
